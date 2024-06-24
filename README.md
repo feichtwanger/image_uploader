@@ -14,7 +14,7 @@
 1. Клонируйте репозиторий:
 
     ```sh
-    git clone https://github.com/ваш_пользователь/myproject.git
+    git clone https://github.com/feichtwanger/image_uploader
     cd myproject
     ```
 
